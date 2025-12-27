@@ -1,0 +1,5 @@
+print("podaj 1 liczbe")
+x=float(input())
+print("podaj 2 liczbe")
+y=float(input())
+print("suma wynosi", round(x+y, 2))
